@@ -1,4 +1,4 @@
-# Ganesh Kumar Pun - Data Analyst
+# Data Analyst
 
 📞 +977 9825521307  
 📧 ganeshkumarpun2@gmail.com  
