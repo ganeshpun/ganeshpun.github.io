@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ganesh Kumar Pun
 
-**IT Engineering Graduate | IT Enthusiast | .NET Developer | Data Analyst**
+**IT Engineering Graduate | IT Enthusiast **
 
 ---
 
@@ -16,7 +16,6 @@ National College of Information Technology (NCIT), Nepal | 2021-2025
 ---
 
 ## What I Do
-- **Backend Development:** Building APIs and web applications using C# and ASP.NET Core  
 - **IT Support & Troubleshooting:** Assisting users and keeping systems running smoothly  
 - **Data Analysis:** Transforming raw data into insights with Python and visualization tools  
 - **Web Projects:** Creating clean and simple websites to showcase skills  
@@ -70,13 +69,6 @@ AMAZON SALES DATASET EDA | PYTHON(PANDAS, NUMPY, MATPLOTLIB, SEABORN)
 - Developing backend and full-stack applications using .NET  
 - Helping friends and colleagues with tech and data problems  
 - Creating clean, accessible, and maintainable software
-
-
-##  Interests
-
-- Helping friends and colleagues with tech and data problems
-- Clean, accessible design—for both code and user experience
-- Making learning resources more approachable and fun
 
 ---
 
