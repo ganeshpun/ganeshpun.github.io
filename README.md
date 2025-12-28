@@ -8,8 +8,8 @@ An IT engineer who enjoy building software solutions, solving real-world problem
 ---
 
 ## Education
-**B.E. in Information Technology**  
-National College of Information Technology (NCIT), Nepal | 2021-2025
+**Bachelor of Engineering in Information Technology**  
+Nepal College of Information Technology (NCIT), Balkumari,Lalitpur | 2021-2025
 
 ---
 
